@@ -246,4 +246,4 @@ This repository serves as the official landing page for World in Conflict. The s
 **Get the most recent version of World in Conflict today!**
 
 ---
-**Last updated:** 2026-10-02 08:20:02 UTC
+**Last updated:** 2026-10-02 15:40:07 UTC
